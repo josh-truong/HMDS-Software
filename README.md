@@ -1,4 +1,4 @@
-# HMDS-Helmet-Software
+# HMDS-Software
 
 The helmet-mounted display utilizes advanced software powered by Google ARCore SDK for enhanced situational awareness and operational capabilities.
 
